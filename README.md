@@ -2,7 +2,7 @@
 
 Systems researcher with a penchant for high-performance infrastructure and compiler stacks. ✨
 
-* 🚀 **Current:** Building [**mlir-aie**](https://github.com/Xilinx/mlir-aie) and [**IRON**](https://github.com/Xilinx/iron) at AMD.
+* 🚀 **Current:** Contributing to [**mlir-aie**](https://github.com/Xilinx/mlir-aie) and [**IRON**](https://github.com/Xilinx/iron) at AMD.
 * 🎓 **Past:** PhD at CU Boulder (Systems/Networking) & 2021 Google PhD Fellow.
 * 🦀 **Tech:** ✨**Rust**✨ enthusiast, MLIR explorer, and distributed systems nerd.
 
